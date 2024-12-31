@@ -1,24 +1,24 @@
 
 .flower {
-  content: url('./img/meadow/flower.gif');
+  content: url('flower.gif');
 }
 
 .flower:hover {
-  content: url('./img/meadow/flower-crush.png');
+  content: url('flower-crush.png');
 }
 
 .bip {
-  content: url('./img/meadow/bip.gif')
+  content: url('bip.gif')
 }
 
 .bip:hover {
-  content:url('./img/meadow/bip-hover.gif')
+  content:url('bip-hover.gif')
 }
 
 .bip:active {
-  content:url('./img/meadow/bip-hover.gif')
+  content:url('bip-hover.gif')
 }
 
 .rocket {
-  content:url('./img/meadow/rocket.gif')
+  content:url('rocket.gif')
 }
