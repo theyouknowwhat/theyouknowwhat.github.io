@@ -1,0 +1,7 @@
+.smiley {
+  content:url('./img/smiley.gif');
+}
+
+.smiley:hover{
+  content: url('./img/smiley-obliterate.gif');
+}
